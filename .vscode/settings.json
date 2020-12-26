@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "E:\\setup\\python.exe",
+    "[django-html]": {
+    
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        }
+    }
+}
